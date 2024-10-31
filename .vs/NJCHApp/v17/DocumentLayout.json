@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NJCHApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F12C23A0-D437-449C-AA2D-AAC417AEF057}|njchapp.client\\njchapp.client.esproj|c:\\njchapp\\njchapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F12C23A0-D437-449C-AA2D-AAC417AEF057}|njchapp.client\\njchapp.client.esproj|solutionrelative:njchapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12C23A0-D437-449C-AA2D-AAC417AEF057}|njchapp.client\\njchapp.client.esproj|c:\\njchapp\\njchapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12C23A0-D437-449C-AA2D-AAC417AEF057}|njchapp.client\\njchapp.client.esproj|solutionrelative:njchapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|c:\\njchapp\\njchapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|solutionrelative:njchapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|c:\\njchapp\\njchapp.server\\njchapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|solutionrelative:njchapp.server\\njchapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|c:\\njchapp\\njchapp.server\\controllers\\awardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|solutionrelative:njchapp.server\\controllers\\awardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|c:\\njchapp\\njchapp.server\\models\\awards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F66577-4721-4AA5-B3A9-C841646DFCAA}|NJCHApp.Server\\NJCHApp.Server.csproj|solutionrelative:njchapp.server\\models\\awards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12C23A0-D437-449C-AA2D-AAC417AEF057}|njchapp.client\\njchapp.client.esproj|c:\\njchapp\\njchapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F12C23A0-D437-449C-AA2D-AAC417AEF057}|njchapp.client\\njchapp.client.esproj|solutionrelative:njchapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NJCHApp\\NJCHApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "NJCHApp.Server\\Program.cs",
+              "ToolTip": "C:\\NJCHApp\\NJCHApp.Server\\Program.cs",
+              "RelativeToolTip": "NJCHApp.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:09:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\NJCHApp\\njchapp.client\\index.html",
+              "RelativeDocumentMoniker": "njchapp.client\\index.html",
+              "ToolTip": "C:\\NJCHApp\\njchapp.client\\index.html",
+              "RelativeToolTip": "njchapp.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-30T21:16:15.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\NJCHApp\\njchapp.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "njchapp.client\\src\\main.jsx",
+              "ToolTip": "C:\\NJCHApp\\njchapp.client\\src\\main.jsx",
+              "RelativeToolTip": "njchapp.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-30T14:12:54.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\NJCHApp\\njchapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "njchapp.client\\src\\App.jsx",
+              "ToolTip": "C:\\NJCHApp\\njchapp.client\\src\\App.jsx",
+              "RelativeToolTip": "njchapp.client\\src\\App.jsx",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-30T14:12:48.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Awards.cs",
+              "DocumentMoniker": "C:\\NJCHApp\\NJCHApp.Server\\Models\\Awards.cs",
+              "RelativeDocumentMoniker": "NJCHApp.Server\\Models\\Awards.cs",
+              "ToolTip": "C:\\NJCHApp\\NJCHApp.Server\\Models\\Awards.cs",
+              "RelativeToolTip": "NJCHApp.Server\\Models\\Awards.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:33:40.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AwardsController.cs",
+              "DocumentMoniker": "C:\\NJCHApp\\NJCHApp.Server\\Controllers\\AwardsController.cs",
+              "RelativeDocumentMoniker": "NJCHApp.Server\\Controllers\\AwardsController.cs",
+              "ToolTip": "C:\\NJCHApp\\NJCHApp.Server\\Controllers\\AwardsController.cs",
+              "RelativeToolTip": "NJCHApp.Server\\Controllers\\AwardsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:08:10.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NJCHApp.Server.http",
+              "DocumentMoniker": "C:\\NJCHApp\\NJCHApp.Server\\NJCHApp.Server.http",
+              "RelativeDocumentMoniker": "NJCHApp.Server\\NJCHApp.Server.http",
+              "ToolTip": "C:\\NJCHApp\\NJCHApp.Server\\NJCHApp.Server.http",
+              "RelativeToolTip": "NJCHApp.Server\\NJCHApp.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-30T22:22:08.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

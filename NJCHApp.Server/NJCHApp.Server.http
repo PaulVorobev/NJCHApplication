@@ -1,0 +1,6 @@
+@NJCHApp.Server_HostAddress = http://localhost:5202
+
+GET {{NJCHApp.Server_HostAddress}}/awards/
+Accept: application/json
+
+###

@@ -1,0 +1,1 @@
+C:\NJCHApp\njchapp.client\obj\Debug\njchapp.client.esproj.CoreCompileInputs.cache
